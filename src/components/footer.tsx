@@ -144,8 +144,10 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href=""
-                  className="text-gray-400 hover:text-purple-400 transition-colors duration-300 text-sm cursor-not-allowed opacity-60"
+                  href="https://www.amazon.com//dp/B0HBLP2ZVZ"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-purple-400 transition-colors duration-300 text-sm"
                 >
                   Coming Soon
                 </a>

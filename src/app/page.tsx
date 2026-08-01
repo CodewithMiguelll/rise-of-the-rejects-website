@@ -132,7 +132,7 @@ export default function Home() {
       <section className="py-16 px-6 ">
         <blockquote className="max-w-3xl mx-auto text-center">
           <p className="text-2xl md:text-4xl font-semibold leading-snug font-family-subheading">
-            "We can't just sit and take it like good little boys, if not now,
+            "We can't just sit and take it like good little boys. If not now,
             then when?"
           </p>
           <footer className="mt-4 text-sm text-[#060506] font-medium font-family-body">
@@ -187,7 +187,7 @@ export default function Home() {
 
             {/* Event 2 */}
             <li className="mb-10 ml-6">
-              <div className="absolute w-3 h-3 rounded-full -left-1.5 border border-white"></div>
+              <div className="absolute w-3 h-3 rounded-full bg-[#121212] -left-1.5 border border-white"></div>
               <time className="mb-1 text-sm font-normal leading-none font-family-body">
                 May 7th, 2065
               </time>

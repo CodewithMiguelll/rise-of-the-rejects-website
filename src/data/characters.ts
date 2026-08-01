@@ -20,11 +20,11 @@ export const characters: Record<"rejects" | "uppers", Character[]> = {
       faction: "rejects",
       image: "/images/michael-poster.png",
       description:
-        "Once a boy who lost everything in the flames, Michael carries the weight of a world that burned him first. His ability to drain energy—both power and life—makes him a weapon of last resort, and a symbol of fear to friend and foe alike. Despite the ghosts that follow him, his conviction to break the Upper’s hold burns brighter than any inferno. He doesn’t seek leadership—he’s just the only one still standing.",
+        "Once a boy who lost everything in the flames, Michael carries the weight of a world that burned him first. His ability to drain energy—both power and life—makes him a weapon of last resort, and a symbol of fear to friend and foe alike. Despite the ghosts that follow him, his conviction to break the Upper’s hold burns brighter than any inferno. He doesn’t seek leadership; he’s just the only one still standing.",
     },
     {
       name: "Sylvester Thompson",
-      role: "Shadow Wielder",
+      role: "Harbinger of Darkness",
       power: "Shadow Manipulation",
       slug: "sylvester",
       faction: "rejects",
@@ -45,7 +45,7 @@ export const characters: Record<"rejects" | "uppers", Character[]> = {
     {
       name: "Nofisat Abdulahi",
       role: "The Ninefold Guard",
-      power: "Ninefold Defense",
+      power: "Nigh Invulnerability, Superhuman reflexes, Master martial-artist",
       slug: "nofisat",
       faction: "rejects",
       image: "/images/nofisat-poster.png",
@@ -65,7 +65,7 @@ export const characters: Record<"rejects" | "uppers", Character[]> = {
     {
       name: "Cynthia Uwakiwé",
       role: "Leader Of the Omajiri Resistance",
-      power: "Electricity",
+      power: "Electricity Manipulation",
       slug: "cynthia",
       faction: "rejects",
       image: "/images/cynthia-poster.png",
@@ -76,7 +76,7 @@ export const characters: Record<"rejects" | "uppers", Character[]> = {
   uppers: [
     {
       name: "Jide Balogun",
-      role: "Supreme Commander",
+      role: "Supreme Leader of Powered Nigeria",
       power: "Unknown",
       slug: "jide",
       faction: "uppers",
@@ -96,13 +96,13 @@ export const characters: Record<"rejects" | "uppers", Character[]> = {
     },
     {
       name: "Sir Alex",
-      role: "Master Lieutenant",
+      role: "Master Lieutenant of the Upper Defence Force",
       power: "Earth Manipulation",
       slug: "sir-alex",
       faction: "uppers",
       image: "/images/sir-alex-poster.png",
       description:
-        "The iron pillar beneath Jide’s regime, Sir Alex commands both earth and soldiers with unyielding force. Once a miner, now a war general, he believes discipline is mercy. His hands have built and buried empires, yet his loyalty remains unshaken—at least for now. Beneath the armor, a conscience rumbles, waiting for the right tremor to split it open.",
+        "The iron pillar beneath Jide’s regime, Sir Alex commands both earth and soldiers with unyielding force. Once a miner, now Jide's fiercest war general, he believes discipline is mercy, and protocol presides over all. His hands have built and buried empires, yet his loyalty remains unshaken—at least for now.",
     },
   ],
 };
