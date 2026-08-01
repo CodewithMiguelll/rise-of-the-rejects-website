@@ -114,7 +114,6 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
-
       {/* READ ROTR HERE */}
       <section className="py-20">
         <div className="max-w-6xl mx-auto">
@@ -177,14 +176,14 @@ export default function AboutPage() {
                 disappear.
               </p>
 
-              <div className="pt-4">
+              <div className=" flex pt-4">
                 <motion.a
-                  href="https://www.amazon.com//dp/B0HBLP2ZVZ"
+                  href="https://www.amazon.com/dp/B0HBLP2ZVZ"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="inline-block px-8 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-semibold transition-colors duration-300"
                 >
-                  Start Reading
+                  Buy the book
                 </motion.a>
               </div>
             </motion.div>
