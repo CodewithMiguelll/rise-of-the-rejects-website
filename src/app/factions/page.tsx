@@ -66,7 +66,7 @@ export default function FactionsPage() {
           <p
             className={`${sourceSans.className} text-xl text-gray-400 mt-4 max-w-xl`}
           >
-            Three visions. One broken nation. The choice defines your future.
+            Three sectors. One broken nation. The choice defines your future.
           </p>
         </motion.div>
       </div>
